@@ -1,0 +1,24 @@
+/* Global variables */
+$baseTextColor: #777;
+
+$h1TextColor: #555;
+$h2TextColor: #555;
+$h3TextColor: #333;
+
+/* Main Colors */
+$primaryColor: #e74c3c;
+$primaryColor-bg: #e74c3c;
+
+$seconadryDarkBlue: #34495e;
+$seconadryDarkBlue-bg: #34495e;
+
+$seconadrySkyBluebg: #2d82d8;
+$seconadrySkyBlue-bg: #2d82d8;
+
+/* Header Colors */
+$headerBG-color: #34495e;
+$headerFontColor: #fff;
+$headerLinkcolor: #fff;
+$headerHoverLinkColor: #e74c3c;
+
+$navBarLineHeight: 112px;

@@ -1,0 +1,51 @@
+/*GLOBAL STYLES BEGIN*/
+
+/* colors */
+.primary { color: $primaryColor; }
+.primary-bg { background-color: $primaryColor-bg; }
+
+.secondary-dark-blue { color: $seconadryDarkBlue; }
+.secondary-dark-blue-bg { background-color: $seconadryDarkBlue-bg; }
+
+.secondary-sky-blue { color: $seconadrySkyBluebg; }
+.secondary-sky-blue-bg { background-color: $seconadrySkyBluebg; }
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: $baseTextColor;
+
+  h1 {
+    font-size: 2.25em;
+    font-weight: 700;
+    color: $h1TextColor;
+    font-weight: 700;
+  }
+
+  h2 {
+    font-size: 1.875em;
+    font-weight: 700;
+    color: $h2TextColor;
+    font-weight: 700;
+  }
+
+  h3 {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: $h3TextColor;
+    font-weight: 700;
+  }
+
+}
+
